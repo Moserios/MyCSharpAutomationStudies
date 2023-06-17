@@ -1,0 +1,6 @@
+D:\_REPOSITORIES\MyCSharpAutomationStudies\CSharpAutomationStuding\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\CSharpAutomationStuding\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.pdb
+D:\_REPOSITORIES\MyCSharpAutomationStudies\CSharpAutomationStuding\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csproj.AssemblyReference.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\CSharpAutomationStuding\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csproj.CoreCompileInputs.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\CSharpAutomationStuding\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\CSharpAutomationStuding\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.pdb
