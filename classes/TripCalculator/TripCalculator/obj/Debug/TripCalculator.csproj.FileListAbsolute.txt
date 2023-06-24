@@ -1,0 +1,15 @@
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\TripCalculator.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\TripCalculator.pdb
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.AssemblyReference.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.CoreCompileInputs.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.CopyComplete
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\obj\Debug\TripCalculator.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\TripCalculator\TripCalculator\obj\Debug\TripCalculator.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trip_Calculation", "Trip_Calculation\Trip_Calculation.csproj", "{31187737-2D95-4F51-973E-09FF1D3BCEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31187737-2D95-4F51-973E-09FF1D3BCEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31187737-2D95-4F51-973E-09FF1D3BCEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31187737-2D95-4F51-973E-09FF1D3BCEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31187737-2D95-4F51-973E-09FF1D3BCEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B223778-B93B-4446-ACE4-E2CEF1E2179B}
+	EndGlobalSection
+EndGlobal
