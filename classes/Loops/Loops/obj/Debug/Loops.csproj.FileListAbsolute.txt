@@ -1,0 +1,15 @@
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Loops.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Loops.pdb
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\obj\Debug\Loops.csproj.CopyComplete
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\obj\Debug\Loops.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\classes\Loops\Loops\obj\Debug\Loops.pdb
