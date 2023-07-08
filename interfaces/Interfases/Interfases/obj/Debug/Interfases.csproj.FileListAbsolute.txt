@@ -1,0 +1,15 @@
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\obj\Debug\Interfases.csproj.AssemblyReference.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\obj\Debug\Interfases.csproj.CoreCompileInputs.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Interfases.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Interfases.pdb
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\obj\Debug\Interfases.csproj.CopyComplete
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\obj\Debug\Interfases.dll
+D:\_REPOSITORIES\MyCSharpAutomationStudies\interfaces\Interfases\Interfases\obj\Debug\Interfases.pdb
