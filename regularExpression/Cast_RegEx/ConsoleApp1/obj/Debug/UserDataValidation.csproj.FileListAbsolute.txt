@@ -1,0 +1,8 @@
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\obj\Debug\UserDataValidation.csproj.AssemblyReference.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\obj\Debug\UserDataValidation.csproj.SuggestedBindingRedirects.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\obj\Debug\UserDataValidation.csproj.CoreCompileInputs.cache
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\_REPOSITORIES\MyCSharpAutomationStudies\regularExpression\Cast_RegEx\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
