@@ -5,6 +5,8 @@ using System.Threading;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Interactions;
+using System.Timers;
+using OpenQA.Selenium.Support.Extensions;
 
 namespace ClickTheElement
 {
@@ -115,13 +117,72 @@ namespace ClickTheElement
             driver.Quit();
 
 
-          //  
-           // 
-          //  
-         //   
+        }
 
+        [TestMethod]
+        public void CheckElementInSecondTableExam()
+        {
+            IWebDriver driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("https://www.ultimateqa.com/simple-html-elements-for-automation/");
+            // driver.Manage().Window.Maximize();
+            //Open top Table and check 2nd value
+            var element = driver.FindElement(By.XPath("//h2[contains(text(),'no id')]/following-sibling::table//td[contains(text(),'$120,000+')]"));
+            Actions actions = new Actions(driver);
+            actions.MoveToElement(element);
+            Assert.IsTrue(driver.FindElement(By.XPath("//h2[contains(text(),'no id')]/following-sibling::table//td[contains(text(),'$120,000+')]")).Displayed);
+            Thread.Sleep(TimeSpan.FromSeconds(2));
 
-            ////
+            driver.Close();
+            driver.Quit();
+
+        }
+
+        [TestMethod]
+        public void CheckElementInFirstTableExam()
+        {
+            IWebDriver driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("https://www.ultimateqa.com/simple-html-elements-for-automation/");
+            driver.Manage().Window.Maximize();
+            //Open top Table and check 2nd value
+            //var element = driver.FindElement(By.XPath("//h2[contains(text(),'HTML Table with unique id')]/following-sibling::table//td[contains(text(),'$120,000+')]"));
+            //Actions actions = new Actions(driver);
+            //actions.MoveToElement(element);
+            Assert.IsTrue(driver.FindElement(By.XPath("//table[@id='htmlTableId']//td[text()='Automation Testing Architect']//following-sibling::td[2]")).Text.Equals("$120,000+"));
+            Thread.Sleep(TimeSpan.FromSeconds(2));
+
+            driver.Close();
+            driver.Quit();
+
+        }
+
+        [TestMethod]
+        public void CheckElementContainsTextExam()
+        {
+            IWebDriver driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("https://www.ultimateqa.com/simple-html-elements-for-automation/");
+            driver.Manage().Window.Maximize();
+
+            Assert.IsTrue(driver.FindElement(By.XPath("//*[@id='button1'][text()='Click Me!']/parent::form//preceding-sibling::h3")).Text.Equals("This section has really simple HTML elements so that you can understand their basic nature. Feel free to practice your test automation on these elements."));
+
+            Thread.Sleep(TimeSpan.FromSeconds(2));
+            driver.Close();
+            driver.Quit();
+
+        }
+
+        [TestMethod]
+        public void CheckLastElementInTableIsForQA()
+        {
+            IWebDriver driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("https://www.ultimateqa.com/simple-html-elements-for-automation/");
+            driver.Manage().Window.Maximize();
+
+            Assert.IsTrue(driver.FindElement(By.XPath("//table[@id='htmlTableId']/tbody/tr[last()]/td[1]")).Text.Equals("Quality Assurance Engineer"));
+
+            Thread.Sleep(TimeSpan.FromSeconds(2));
+            driver.Close();
+            driver.Quit();
+
         }
     }
 
